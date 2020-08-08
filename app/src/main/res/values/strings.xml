@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewActivityOne</string>
+    <string name="Msg01">Here, I am the text message 1</string>
+    <string name="Msg02">Here, I am the text message 2</string>
+</resources>
